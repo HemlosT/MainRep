@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Работа в git\\C#1lekciya\\Example003_Sum\\Example003_Sum.csproj": {}
+    "D:\\Работа в git\\C#1lekciya\\Examples\\Example003_Sum\\Example003_Sum.csproj": {}
   },
   "projects": {
-    "D:\\Работа в git\\C#1lekciya\\Example003_Sum\\Example003_Sum.csproj": {
+    "D:\\Работа в git\\C#1lekciya\\Examples\\Example003_Sum\\Example003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Работа в git\\C#1lekciya\\Example003_Sum\\Example003_Sum.csproj",
+        "projectUniqueName": "D:\\Работа в git\\C#1lekciya\\Examples\\Example003_Sum\\Example003_Sum.csproj",
         "projectName": "Example003_Sum",
-        "projectPath": "D:\\Работа в git\\C#1lekciya\\Example003_Sum\\Example003_Sum.csproj",
+        "projectPath": "D:\\Работа в git\\C#1lekciya\\Examples\\Example003_Sum\\Example003_Sum.csproj",
         "packagesPath": "C:\\Users\\79241\\.nuget\\packages\\",
-        "outputPath": "D:\\Работа в git\\C#1lekciya\\Example003_Sum\\obj\\",
+        "outputPath": "D:\\Работа в git\\C#1lekciya\\Examples\\Example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79241\\AppData\\Roaming\\NuGet\\NuGet.Config"
